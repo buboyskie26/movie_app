@@ -1,0 +1,15 @@
+C:\Users\Sirios\source\repos\EcomManagement\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\Sirios\source\repos\EcomManagement\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Sirios\source\repos\EcomManagement\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Sirios\source\repos\EcomManagement\Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Sirios\source\repos\EcomManagement\Application\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\Sirios\source\repos\EcomManagement\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Sirios\source\repos\EcomManagement\Application\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\Users\Sirios\source\repos\EcomManagement\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+C:\Users\Sirios\source\repos\EcomManagement\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirios\source\repos\EcomManagement\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\Sirios\source\repos\EcomManagement\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\Sirios\source\repos\EcomManagement\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\Sirios\source\repos\EcomManagement\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\Sirios\source\repos\EcomManagement\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\Sirios\source\repos\EcomManagement\Application\obj\Debug\netcoreapp3.1\Application.pdb

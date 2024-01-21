@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Sirios\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Sirios\\.nuget\\packages"
+    ]
+  }
+}
